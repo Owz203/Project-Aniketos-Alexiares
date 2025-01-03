@@ -53,7 +53,6 @@ def scanFiles(dir , api_key):
                 error_messsage = parsed_data["error"].get("message",  "Unknown error")
                 print("Error: ", error_messsage)
                 continue
-            
         
             stats = parsed_data["data"].get("attributes").get("sigma_analysis_stats")
 
@@ -103,6 +102,3 @@ if __name__ == '__main__':
     api_key = 'df0a7189edcaae2f0222ed508124fcf0f352d52d299fa5ffdde3fcb58d2a83c5'
 
     scanFiles(specified_folder, api_key)
-
-
-
