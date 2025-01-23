@@ -3,6 +3,7 @@ import requests
 import hashlib
 import json
 
+# Extracts file hash
 def getFileHash(file_name):
     algorithm='sha256'
     hash_func = hashlib.new(algorithm) # Compute the hash of a file using the specified algorithm.
@@ -19,7 +20,7 @@ def getFileHash(file_name):
     
     return hash_func.hexdigest()
 
-
+# scans files in directory
 def scanFiles(dir , api_key):
     for root,_, files in os.walk(dir):
         for file in files: 
@@ -29,10 +30,12 @@ def scanFiles(dir , api_key):
 
             file_hash = getFileHash(file_path)
 
+            # Error handling
             if not file_hash:
                 print('Could not hash file. Skipping file')
                 continue
-
+            
+            # API request
             url = "https://www.virustotal.com/api/v3/files/" + file_hash
 
             headers = {
@@ -40,11 +43,8 @@ def scanFiles(dir , api_key):
                 "x-apikey": api_key
             }
 
+            # Response handling
             response = requests.get(url, headers=headers)
-
-            # if response.status_code !=200:
-            #     print('Error: failed to get response')
-            #     continue
 
             data = response.text
             parsed_data = json.loads(data) # Parse the JSON string
@@ -56,6 +56,8 @@ def scanFiles(dir , api_key):
         
             stats = parsed_data["data"].get("attributes").get("sigma_analysis_stats")
 
+
+            # User display outputs and interactions
             if stats == None:
                 print('File is Clean')
                 continue
@@ -94,8 +96,7 @@ def scanFiles(dir , api_key):
                 continue
 
 
-
-
+# Main function 
 if __name__ == '__main__':
     specified_folder = r"C:\Users\Benchmark"
 

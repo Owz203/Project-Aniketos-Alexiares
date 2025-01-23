@@ -47,7 +47,7 @@ columns_to_read = ['filesize', 'entropy']
 x = df[columns_to_read] #features
 y = df['Label']
 
-x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=1)  
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)  
 
 # instantiate model
 rf = RandomForestClassifier()
@@ -62,7 +62,7 @@ y_predlr = rf.predict(x_test)
 print('Accuracy: ' , accuracy_score(y_test, y_predlr))
 
 
-predictingMalware(rf)
+# predictingMalware(rf)
 
 
 actual = y_test

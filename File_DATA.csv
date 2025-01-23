@@ -1,5 +1,139 @@
-File Name,File Size,File Entropy
-file-example_PDF_1MB.pdf,1042157,7.976141235774984
-file-sample_1MB.docx,1026736,7.998491654185498
-Gantt Chart new.xlsx,41766,7.753996918903487
-RobloxPlayerInstaller.exe,7545744,6.526795520900139
+filename,filesize,entropy,Predicted Result
+scanMe\file-example_PDF_1MB - Copy (10).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (11).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (12).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (13).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (14).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (15).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (16).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (17).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (18).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (19).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (2).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (20).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (21).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (22).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (23).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (24).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (25).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (26).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (27).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (28).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (29).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (3).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (30).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (31).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (32).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (33).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (34).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (4).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (5).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (6).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (7).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (8).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy (9).pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB - Copy.pdf,1042157,7.976141235774984,0
+scanMe\file-example_PDF_1MB.pdf,1042157,7.976141235774984,0
+scanMe\file-sample_1MB - Copy (10).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (11).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (12).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (13).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (14).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (15).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (16).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (17).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (18).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (19).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (2).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (20).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (21).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (22).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (23).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (24).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (25).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (26).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (27).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (28).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (29).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (3).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (30).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (31).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (32).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (33).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (34).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (4).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (5).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (6).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (7).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (8).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy (9).docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB - Copy.docx,1026736,7.998491654185498,0
+scanMe\file-sample_1MB.docx,1026736,7.998491654185498,0
+scanMe\Gantt Chart new - Copy (10).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (11).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (12).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (13).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (14).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (15).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (16).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (17).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (18).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (19).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (2).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (20).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (21).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (22).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (23).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (24).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (25).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (26).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (27).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (28).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (29).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (3).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (30).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (31).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (32).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (33).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (4).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (5).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (6).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (7).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (8).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy (9).xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new - Copy.xlsx,41766,7.753996918903487,1
+scanMe\Gantt Chart new.xlsx,41766,7.753996918903487,1
+scanMe\RobloxPlayerInstaller - Copy (10).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (11).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (12).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (13).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (14).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (15).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (16).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (17).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (18).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (19).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (2).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (20).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (21).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (22).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (23).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (24).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (25).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (26).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (27).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (28).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (29).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (3).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (30).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (31).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (32).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (33).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (4).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (5).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (6).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (7).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (8).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy (9).exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller - Copy.exe,7545744,6.526795520900139,0
+scanMe\RobloxPlayerInstaller.exe,7545744,6.526795520900139,0
